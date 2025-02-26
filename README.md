@@ -1,1 +1,0 @@
-echo "# Assignment" >> README.md
